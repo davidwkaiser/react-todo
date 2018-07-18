@@ -4,7 +4,7 @@ import './Title.css';
 class Title extends Component {
   render(){
     return (
-      <div id="title">
+      <div className="piece">
         <h1>This is the Title for my ToDo App</h1>
       </div>
       );
