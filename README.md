@@ -5,6 +5,10 @@ from scratch, once I have enough to work with, so I am </br>
 creating a basic ToDo app. I'll eventually add a database</br>
 but this is enough to get me started. </br>
 
+Wow, this one is proving tricky, I may have to try another</br>
+and come back, I am having a hard time learning the rules</br>
+for 'unexpected tokens'
+
 Tech stack: React</br>
 
 See my portfolio at http://davidwkaiser.squarespace.com</br>
