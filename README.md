@@ -7,7 +7,7 @@ but this is enough to get me started. </br>
 
 Wow, this one is proving tricky, I may have to try another</br>
 and come back, I am having a hard time learning the rules</br>
-for 'unexpected tokens'
+for 'unexpected tokens,' and they keep appearing. 
 
 Tech stack: React</br>
 
